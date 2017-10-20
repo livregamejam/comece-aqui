@@ -52,7 +52,7 @@ consigam jogar em casa também. :+1:
 
 ### 2. Cadastro no Itch.io
 
-Além de usarmos o Github para guardar os jogos, vamos fazer a avaliação dos
+Além de usarmos o GitHub para guardar os jogos, vamos fazer a avaliação dos
 jogos através do itch.io. O cadastro é bastante simples e você vai poder votar
 nos jogos que estão participando da Jam, de todos os lugares. Para se
 cadastrar, acesse esse link: [Itch.io - Livre Game Jam](https://itch.io/jam/livre-game-jam).
@@ -60,9 +60,8 @@ cadastrar, acesse esse link: [Itch.io - Livre Game Jam](https://itch.io/jam/livr
 ### 3. Entrando no grupo do Telegram
 
 O Telegram é um serviço de código aberto que permite troca instantânea de
-mensagens. Ele funciona muito como o Whatsapp e nós o usamos para a comunicação
-dos inscritos na Jam tanto de São Carlos quanto de Campinas. :clap:
+mensagens. Ele funciona muito como o WhatsApp e nós o usamos para a comunicação
+dos inscritos nas Jams tanto de São Carlos quanto de Campinas. :clap:
 
-Para entrar,
-instale o Telegram apartir [desse link](https://telegram.org/). E entre no
-canal [@livregamejam](https://t.me/livregamejam)  :wink:
+Para entrar, instale o Telegram apartir [desse link](https://telegram.org/). E
+entre no canal [@livregamejam](https://t.me/livregamejam)  :wink:
