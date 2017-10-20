@@ -14,22 +14,22 @@ bastante. :smile: Se você está aqui é porque deve ter acabado de chegar.
 Sem pânico! Nesse arquivo a gente descreve os passos iniciais para colocar
 o seu jogo no mundo e as duvidas mais comuns.
 
-
 ### Índice
 
 1. [O que eu preciso para participar?](#0-o-que-eu-preciso-para-participar) 
-1. [Eu tô com uma duvida. Pra quem eu pergunto?](#1-pra-quem-eu-pergunto) 
-
+2. [Eu não consigo fazer algo. Quem pode me ajudar?](#1-pedindo-ajuda) 
+3. [Onde eu consigo saber mais sobre licenças?](https://github.com/livregamejam/comece-aqui/blob/master/como-escolher-licenca.md)
+4. [Onde eu encontro a lista de times e jogos participantes?]()
 
 ### 1. O que eu preciso para participar?
 
 Aqui vai uma lista de tudo que é necessário para começarmos. Você pode
 encontrar mais detalhes clicando no link do item.
 
-- [ ] [Fazer parte de um time!](#1-conseguindo-um-time) :two_women_holding_hands:
-- [ ] [Criar um repositório na organização da Jam](#2-criando-um-repositorio)
-- [ ] [Me cadastrar no itch.io](#3-fazendo-cadastro-no-itchio)
-- [ ] [Participar do Grupo no Telegram](#4-participando-no-telegram)
+- [x] [Fazer parte de um time!](#1-conseguindo-um-time) :two_women_holding_hands:
+- [x] [Criar um repositório na organização da Jam](#2-criando-um-repositorio)
+- [x] [Me cadastrar no itch.io](#3-fazendo-cadastro-no-itchio)
+- [x] [Participar do Grupo no Telegram](#4-participando-no-telegram)
 
 
 #### 1. Conseguindo um time 
@@ -73,10 +73,11 @@ dos inscritos nas Jams tanto de São Carlos quanto de Campinas. :clap:
 Para entrar, instale o Telegram apartir [desse link](https://telegram.org/). E
 entre no canal [@livregamejam](https://t.me/livregamejam)  :wink:
 
-### 2. Eu tô com uma duvida. Pra quem eu pergunto?
+### 2. Pedindo Ajuda
 
 Em ambos os sites da Jam - São Carlos e Campinas - foram alocados membros da
 organização pra ajudar quem precisar de auxilio. Entretanto, encorajamos vocês
 a perguntarem no grupo da **Livre Game Jam** no
 [Telegram](#4-entrando-no-grupo-do-telegram). Se você tem uma
 duvida, outra pessoa pode ter também. :smile:
+
