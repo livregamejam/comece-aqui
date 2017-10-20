@@ -1,7 +1,7 @@
 # Lista de Conquistas
 
 | #  | Símbolo  | Nome  | Descrição  | % de Obtenção  |
-|---|---|---|---|---|
+|:---:|:---:|---|---|:---:|
 | 1  | :bird:  | Thunderbird  | Faça um jogo que esteja relacionado (em mecânica ou temática) com um jogo feito na outra sede. | 0 |
 | 2  | :no_mouth:  | Estou sem palavras!  | Faça um jogo sem usar palavras escritas, em nenhuma língua, ou algarismos numéricos (com exceção dos créditos). | 0 |
 | 3 | :neckbeard:  | GNU  | Faça uma referência indireta a Richard Stallman e/ou Linus Torvalds, sem usar nome, imagem ou foto deles. | 0 |
