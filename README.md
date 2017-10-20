@@ -1,6 +1,7 @@
 # Comece aqui :rocket:
 
- <img src="https://livregamejam.org/images/logo_large.png" width="350">
+<img src="https://livregamejam.org/images/logo_large.png" width="350"
+style="display: block; margin: auto auto;">
 
 Olá!
 
@@ -9,10 +10,8 @@ São Paulo! :fireworks: :fireworks:
 
 Aqui vamos aprender sobre arte, desenvolvimento, música. Vamos
 começar debates, fazer amizades, compartilhar conhecimento e nos divertir
-bastante. :smile: 
-
-Se você está aqui é porque deve ter acabado de chegar. Sem pânico! Nesse
-arquivo a gente descreve os passos iniciais para colocar
+bastante. :smile: Se você está aqui é porque deve ter acabado de chegar.
+Sem pânico! Nesse arquivo a gente descreve os passos iniciais para colocar
 o seu jogo no mundo.
 
 Aqui vai uma lista de tudo que é necessário para começarmos. Você pode
