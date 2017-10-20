@@ -1,7 +1,6 @@
 # Comece aqui :rocket:
 
-![](https://livregamejam.org/images/logo_large.png | width=300)
-
+ <img src="https://livregamejam.org/images/logo_large.png" width="350">
 
 Olá!
 
