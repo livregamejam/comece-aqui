@@ -59,4 +59,12 @@ jogos através do itch.io. O cadastro é bastante simples e você vai poder vota
 nos jogos que estão participando da Jam, de todos os lugares. Para se
 cadastrar, acesse esse link: [Itch.io - Livre Game Jam](https://itch.io/jam/livre-game-jam).
 
+### 3. Entrando no grupo do Telegram
 
+O Telegram é um serviço de código aberto que permite troca instantânea de
+mensagens. Ele funciona muito como o Whatsapp e nós o usamos para a comunicação
+dos inscritos na Jam tanto de São Carlos quanto de Campinas. :clap:
+
+Para entrar,
+instale o Telegram apartir [desse link](https://telegram.org/). E entre no
+canal [@livregamejam](https://t.me/livregamejam)  :wink:
