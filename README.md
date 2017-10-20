@@ -16,8 +16,8 @@ o seu jogo no mundo e as duvidas mais comuns.
 
 ### Índice
 
-1. [O que eu preciso para participar?](#0-o-que-eu-preciso-para-participar) 
-2. [Eu não consigo fazer algo. Quem pode me ajudar?](#1-pedindo-ajuda) 
+1. [O que eu preciso para participar?](#1-o-que-eu-preciso-para-participar) 
+2. [Eu não consigo fazer algo. Quem pode me ajudar?](#2-pedindo-ajuda) 
 3. [Onde eu consigo saber mais sobre licenças?](https://github.com/livregamejam/comece-aqui/blob/master/como-escolher-licenca.md)
 4. [Onde eu encontro a lista de times e jogos participantes?]()
 
