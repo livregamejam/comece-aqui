@@ -6,17 +6,13 @@ preencher, ela será preenchida pelos membros da staff, não se preocupe.
 atentos! :wink:
 
 
-### Lista de Times
-
-1. 
-     - **Nome do Time**:
-        - Grito de guerra: 
-        - Participantes: 
-        - Softwares escolhidos: 
-        - Cidade:
-     - **Nome do Jogo**:
-       - Descrição:
-       - Gênero:
-     - **Conquistas Desbloqueadas**
-       - Nome da Conquista 
-
+### 1. **Princípes Nigerianos** :crown:
+*"SPAM SPAM SPAM SPAM SPAM SPAM SPAM SPAM SPAM ♪"*
+     
+   - **Participantes:** Henrique Machado Gonçalves (@rrick12), Capi Etheriel
+     (@barraponto), Kleyton Torikai, Caio 
+   - **Softwares escolhidos:** Node.JS, Electron, Ardaur, Vue, Javascript, Gimp, Inkscape.
+   - **Cidade:** Campinas
+   - ####  ▸ SCAM-SIMULATOR 3000 :video_game:
+     Responda seus emails ou morra tentando. Tente descobrir se é um email mal intencionado.
+     - **Gênero:** Officecore
