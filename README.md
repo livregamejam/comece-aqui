@@ -19,6 +19,7 @@ o seu jogo no mundo e as duvidas mais comuns.
 
 - [Lista de Times e Jogos Participantes](https://github.com/livregamejam/comece-aqui/blob/master/lista-de-participantes.md)
 - [Lista de Conquistas](https://github.com/livregamejam/comece-aqui/blob/master/conquistas.md)
+- [Guia de Sobrevivência do Gamux](https://docs.google.com/presentation/d/1IOOTV_6GmPXkY7ZX5YpCjsjrBH29bHz66L1ZDtEzzhA/edit#slide=id.g28118b313c_0_607)
 
 ### Perguntas Comuns
 
