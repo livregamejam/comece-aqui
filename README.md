@@ -14,7 +14,7 @@ bastante. :smile: Se você está aqui é porque deve ter acabado de chegar.
 Sem pânico! Nesse arquivo a gente descreve os passos iniciais para colocar
 o seu jogo no mundo e as duvidas mais comuns.
 
-
+**Temas**: Menos é Mais; Viral; Elos; Privacidade
 ### Índice
 
 - [Lista de Times e Jogos Participantes](https://github.com/livregamejam/comece-aqui/blob/master/lista-de-participantes.md)
