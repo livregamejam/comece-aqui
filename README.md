@@ -14,12 +14,17 @@ bastante. :smile: Se você está aqui é porque deve ter acabado de chegar.
 Sem pânico! Nesse arquivo a gente descreve os passos iniciais para colocar
 o seu jogo no mundo e as duvidas mais comuns.
 
+
 ### Índice
+
+- [Lista de times e jogos participantes](https://github.com/livregamejam/comece-aqui/blob/master/lista-de-participantes.md)
+- [Lista de Conquistas](https://github.com/livregamejam/comece-aqui/blob/master/conquistas.md)
+- [Informações sobre licenças](https://github.com/livregamejam/comece-aqui/blob/master/como-escolher-licenca.md)
+
+### Perguntas Comuns
 
 1. [O que eu preciso para participar?](#1-o-que-eu-preciso-para-participar) 
 2. [Eu não consigo fazer algo. Quem pode me ajudar?](#2-pedindo-ajuda) 
-3. [Onde eu consigo saber mais sobre licenças?](https://github.com/livregamejam/comece-aqui/blob/master/como-escolher-licenca.md)
-4. [Onde eu encontro a lista de times e jogos participantes?]()
 
 ### 1. O que eu preciso para participar?
 
