@@ -49,7 +49,7 @@ atentos! :wink:
      Experiencie memórias de todas as etapas da vida.
      - **Gênero:** Infinity Run
 
-### 5. **Robot Ink**
+### 5. **Robot Inc**
 *"Sou um cara pacífico."*
 
    - **Participantes:** Lucas Fernandes Martins
