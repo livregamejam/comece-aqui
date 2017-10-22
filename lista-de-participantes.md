@@ -10,7 +10,7 @@ atentos! :wink:
 *"SPAM SPAM SPAM SPAM SPAM SPAM SPAM SPAM SPAM ♪"*
 
    - **Participantes:** Henrique Machado Gonçalves (@rrick12), Capi Etheriel
-     (@barraponto), Kleyton Torikai, Caio 
+     (@barraponto), Kleyton Torikai, Caio
    - **Softwares escolhidos:** Node.JS, Electron, Ardaur, Vue, Javascript, Gimp, Inkscape.
    - **Cidade:** Campinas
    - ####  ▸ SCAM-SIMULATOR 3000 :video_game:
@@ -19,20 +19,20 @@ atentos! :wink:
 
 ### 2. **Minhoca Uhaha**
 *"Minhoca Uhaha"*
- 
+
    - **Participantes:** Bibício, Henrique Anraki, Cartaz, Giovanni, Ami, Gil
-     Zumbi e Gustavo Ceccon 
+     Zumbi e Gustavo Ceccon
    - **Softwares escolhidos:** Godot, Inkspace, LMMS
    - **Cidade:** São Carlos
-   - ####  ▸ Jogo dos Boneco de Palito
+   - ####  ▸ PorUmFio
      Fique ligadão com seu amigo.
      - **Gênero:** Plataforma/Puzzle
 
 
 ### 3. **Soluc**
 *"Ah, não!"*
- 
-   - **Participantes:** Marcos Morise 
+
+   - **Participantes:** Marcos Morise
    - **Softwares escolhidos:** Java (servidor), Ajax, cliente web
    - **Cidade:** Jaboticabal
    - ####  ▸ SocietalJam
